@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # node-js-sample
 
 This is a barebones Node.js app using the [Express](http://expressjs.com/) framework.
@@ -32,7 +31,3 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
 - [Building a Real-time, Polyglot Application with Node.js, Ruby, MongoDB and Socket.IO](https://devcenter.heroku.com/articles/realtime-polyglot-app-node-ruby-mongodb-socketio)
 - [Using Socket.IO with Node.js on Heroku](https://devcenter.heroku.com/articles/using-socket-io-with-node-js-on-heroku)
-=======
-FreRepo
-=======
->>>>>>> 5654ec54debe7832336dbf6f70f832ab305b591c
